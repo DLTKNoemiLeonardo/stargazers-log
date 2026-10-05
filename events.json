@@ -1,0 +1,29 @@
+[
+  {
+    "name": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 348000,
+    "starred_at": "2025-02-18",
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "Python",
+    "owner": "TheAlgorithms",
+    "description": "All algorithms implemented in Python.",
+    "language": "Python",
+    "stars": 190000,
+    "starred_at": "2025-01-09",
+    "url": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "name": "free-for-dev",
+    "owner": "ripienaar",
+    "description": "A list of software (SaaS, PaaS, IaaS, etc.) with free tiers for developers.",
+    "language": "Markdown",
+    "stars": 100000,
+    "starred_at": "2024-11-22",
+    "url": "https://github.com/ripienaar/free-for-dev"
+  }
+]
